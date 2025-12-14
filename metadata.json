@@ -1,0 +1,5 @@
+{
+  "name": "Smart Sheet Entry",
+  "description": "Ứng dụng nhập liệu thông minh cho Google Sheets sử dụng Gemini AI để chuyển đổi văn bản tự nhiên thành dữ liệu bảng tính.",
+  "requestFramePermissions": []
+}
